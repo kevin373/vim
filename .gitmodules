@@ -4,3 +4,21 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/taglist"]
+	path = bundle/taglist
+	url = https://github.com/pkufranky/vimconf.git
+[submodule "bundle/winmanager"]
+	path = bundle/winmanager
+	url = https://github.com/pkufranky/vimconf.git
+[submodule "bundle/ctags"]
+	path = bundle/ctags
+	url = https://github.com/pkufranky/vimconf.git
+[submodule "bundle/c.vim"]
+	path = bundle/c.vim
+	url = https://github.com/pkufranky/vimconf.git
+[submodule "bundle/omnicppcoplete"]
+	path = bundle/omnicppcoplete
+	url = https://github.com/pkufranky/vimconf.git
+[submodule "bundle/a.vim"]
+	path = bundle/a.vim
+	url = https://github.com/pkufranky/vimconf.git
